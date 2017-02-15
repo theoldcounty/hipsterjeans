@@ -61,12 +61,6 @@ const genderType = {
   "F": 'F'
 };
 
-
-var options = {
-  defaultSortName: 'name',  // default sort column name
-  defaultSortOrder: 'desc'  // default sort order
-};
-
 function enumFormatter(cell, row, enumObject) {
   return enumObject[cell];
 }
