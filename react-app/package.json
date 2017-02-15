@@ -1,5 +1,5 @@
 {
-  "name": "my-app",
+  "name": "rob-lone-app",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
@@ -7,6 +7,7 @@
   },
   "dependencies": {
     "react": "^15.4.2",
+    "react-bootstrap-table": "^2.11.2",
     "react-dom": "^15.4.2"
   },
   "scripts": {
